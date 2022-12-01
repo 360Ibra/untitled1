@@ -1,0 +1,31 @@
+/*Comic Sans MS*/
+*{
+font-family:"Cambria";
+
+}
+
+
+.box{
+    background-color: lightblue;
+    border: 1px solid;
+    min-height:50px;
+    font-size: 2rem;
+}
+
+
+.navbar-nav > li{
+
+    margin-left:-25px;
+    margin-right:-25px;
+    padding-left: 60px;
+    padding-right:50px ;
+
+}
+
+
+
+
+.navbar-brand.mb-0.h1{
+    padding-left: 15px;
+
+}

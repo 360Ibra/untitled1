@@ -1,0 +1,28 @@
+1. Poor photography for the pictures very bad angles taken of the cakes overall image quality is not the best aswell
+Solution - Fixed this by downloading images and editing them together with Adobe to give them a better designed look
+I then used filter to increase the saturation to add a rich colour to the cakes image.
+
+2.Corporate Events They had alot of big brand companies that they have worked
+with but instead of dispaying it in the home page to attract more customers instantly
+it was in a different webpage First impression is everything a user may click off a website very fast if nothing
+on the home page interests them I felt it was better to put the brands in the homepage to build a sense of trust
+with the customer.
+
+3.Navigation bar
+
+The navigation bar was just very unclear it had small font and alot of navbar items which is just alot of words
+being thrown at the user
+
+
+4.Footer
+
+The footer had a very large whitespace that looked very unattractive so I created a new footer which
+also has links to their social media which is not included in their website
+
+5.Homepage
+
+Navigating to the homepage is not easy so I implemented the logo and a home nav-item on the nav bar which allows user to access
+the home page easily as the navbar follows as user scrolls downwards.
+
+The design I used was a bootstrap
+
